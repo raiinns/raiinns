@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @raiinns
+- 👋 Hi, I’m Rains
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me twiter @raihan_nn
+- 📫 How to reach me twiter @0x_raihan
